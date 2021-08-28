@@ -59,8 +59,7 @@ h1 {
 }
 .a {
   text-align: right;
-  margin: 0 auto;
-  display: block;
+  color: red;
 }
 .today {
   display: block;
