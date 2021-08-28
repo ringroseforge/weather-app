@@ -57,7 +57,7 @@ h1 {
   border-radius: 30px;
   width: 90%;
 }
-small {
+.small {
   text-align: right;
   color: red;
 }
