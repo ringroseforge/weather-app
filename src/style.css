@@ -3,7 +3,7 @@ body {
 }
 .container {
   opacity: 0.78;
-  border-width: 5px 10px 15px solid black;
+  border: 5px 10px 15px solid black;
   margin: 5px;
   padding: 0px 10px 15px 10px;
   border-radius: 30%;
