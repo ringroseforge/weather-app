@@ -59,7 +59,7 @@ h1 {
 }
 .small {
   text-align: right;
-  color: red;
+  margin: 0;
 }
 .today {
   display: block;
