@@ -57,9 +57,10 @@ h1 {
   border-radius: 30px;
   width: 90%;
 }
-.small {
+.creator {
   text-align: right;
   margin: 0;
+  color: red: 
 }
 .today {
   display: block;
