@@ -57,12 +57,7 @@ h1 {
   border-radius: 30px;
   width: 90%;
 }
-#creator {
-  color: red;
 
-  display: block;
-  border: 10px 0px;
-}
 .today {
   display: block;
   margin: 0 auto;
