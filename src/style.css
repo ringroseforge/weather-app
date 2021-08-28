@@ -5,7 +5,7 @@ body {
   opacity: 0.78;
   border: 5px 10px 15px solid black;
   margin: 5px;
-  padding: 0px 10px 15px;
+  padding: 0px 10px 15px 10px;
   border-radius: 30%;
   align-items: center;
   background-color: #a9afb4;
