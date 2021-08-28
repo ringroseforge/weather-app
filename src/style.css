@@ -59,8 +59,7 @@ h1 {
 }
 #creator {
   color: red;
-  text-align: center;
-  margin: 0 auto;
+
   display: block;
   border: 10px 0px;
 }
