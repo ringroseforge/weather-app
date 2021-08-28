@@ -55,7 +55,9 @@ h1 {
   border-radius: 30px;
   width: 90%;
 }
-
+small {
+  color: red;
+}
 .today {
   display: block;
   margin: 0 auto;
