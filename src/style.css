@@ -59,6 +59,8 @@ h1 {
 }
 #creator {
   color: red;
+  text-align: center;
+  padding: 10px;
 }
 .today {
   display: block;
