@@ -58,9 +58,6 @@ h1 {
   width: 90%;
 }
 #creator {
-  text-align: right;
-  margin: 0 auto;
-  display: block;
   color: red;
 }
 .today {
